@@ -1,2 +1,2 @@
 # EXElk-prototype
- Building a website for exe.lk with airpods website inspiration
+ Building a website for exe.lk with apple airpods website inspiration
