@@ -19,7 +19,9 @@
     transform: translate(-50%,-50%);
     font-size: 7rem;
     font-family: 'Poppins', sans-serif;
-    color:azure;
+    background: -webkit-linear-gradient(120deg,#ff00f7,#00d0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent ;
 }
 
 section{
